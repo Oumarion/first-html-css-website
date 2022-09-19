@@ -1,0 +1,17 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+    color: rgb(170, 45, 160)
+}
+
+a :hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
